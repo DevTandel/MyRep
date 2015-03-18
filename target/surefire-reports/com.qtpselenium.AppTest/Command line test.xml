@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DishaTandel" name="com.qtpselenium.AppTest" tests="1" failures="0" timestamp="18 Mar 2015 01:16:08 GMT" time="13.192" errors="0">
+  <testcase name="testNGTest" time="13.164" classname="com.qtpselenium.AppTest"/>
+</testsuite>
